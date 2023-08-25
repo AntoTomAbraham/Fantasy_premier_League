@@ -1,0 +1,188 @@
+ID,Name,FullName,Age,Height,Weight,PhotoUrl,Nationality,Overall,Potential,Growth,Positions,Club,ClubNumber,PreferredFoot
+158023,L. Messi,Lionel Messi,35,169,67,https://cdn.sofifa.net/players/158/023/23_60.png,Argentina,91,91,0,RW,64c0c2b0f547dd9dd135f699,30,Left
+165153,K. Benzema,Karim Benzema,34,185,81,https://cdn.sofifa.net/players/165/153/23_60.png,France,91,91,0,"CF,ST",64c0c2b0f547dd9dd135f685,9,Right
+188545,R. Lewandowski,Robert Lewandowski,33,185,81,https://cdn.sofifa.net/players/188/545/23_60.png,Poland,91,91,0,ST,64c0c2b0f547dd9dd135f685,9,Right
+192985,K. De Bruyne,Kevin De Bruyne,31,181,70,https://cdn.sofifa.net/players/192/985/23_60.png,Belgium,91,91,0,"CM,CAM",64c0c2b0f547dd9dd135f685,17,Right
+231747,K. Mbappé,Kylian Mbappé,23,182,73,https://cdn.sofifa.net/players/231/747/23_60.png,France,91,95,4,"ST,LW",64c0c2b0f547dd9dd135f685,7,Right
+209331,M. Salah,Mohamed Salah,30,175,71,https://cdn.sofifa.net/players/209/331/23_60.png,Egypt,90,90,0,RW,64c0c2b0f547dd9dd135f685,11,Left
+192119,T. Courtois,Thibaut Courtois,30,199,96,https://cdn.sofifa.net/players/192/119/23_60.png,Belgium,90,91,1,GK,64c0c2b0f547dd9dd135f685,1,Left
+167495,M. Neuer,Manuel Neuer,36,193,93,https://cdn.sofifa.net/players/167/495/23_60.png,Germany,90,90,0,GK,64c0c2b0f547dd9dd135f685,1,Right
+20801,Cristiano Ronaldo,C. Ronaldo dos Santos Aveiro,37,187,83,https://cdn.sofifa.net/players/020/801/23_60.png,Portugal,90,90,0,ST,64c0c2b0f547dd9dd135f685,7,Right
+203376,V. van Dijk,Virgil van Dijk,30,193,92,https://cdn.sofifa.net/players/203/376/23_60.png,Netherlands,90,90,0,CB,64c0c2b0f547dd9dd135f685,4,Right
+202126,H. Kane,Harry Kane,28,188,89,https://cdn.sofifa.net/players/202/126/23_60.png,England,89,89,0,ST,64c0c2b0f547dd9dd135f685,10,Right
+190871,Neymar Jr,Neymar da Silva Santos Jr.,30,175,68,https://cdn.sofifa.net/players/190/871/23_60.png,Brazil,89,89,0,LW,64c0c2b0f547dd9dd135f685,10,Right
+200104,H. Son,Heung Min Son,29,183,78,https://cdn.sofifa.net/players/200/104/23_60.png,Korea Republic,89,89,0,"LW,LM",64c0c2b0f547dd9dd135f685,7,Right
+200145,Casemiro,Carlos Henrique Venancio Casimiro,30,185,84,https://cdn.sofifa.net/players/200/145/23_60.png,Brazil,89,89,0,CDM,64c0c2b0f547dd9dd135f685,18,Right
+200389,J. Oblak,Jan Oblak,29,188,87,https://cdn.sofifa.net/players/200/389/23_60.png,Slovenia,89,91,2,GK,64c0c2b0f547dd9dd135f685,13,Right
+208722,S. Mané,Sadio Mané,30,174,69,https://cdn.sofifa.net/players/208/722/23_60.png,Senegal,89,89,0,"LM,CF",64c0c2b0f547dd9dd135f685,17,Right
+210257,Ederson,Ederson Santana de Moraes,28,188,86,https://cdn.sofifa.net/players/210/257/23_60.png,Brazil,89,91,2,GK,"64c0c2b0f547dd9dd135f686",31,Left
+212622,J. Kimmich,Joshua Kimmich,27,177,75,https://cdn.sofifa.net/players/212/622/23_60.png,Germany,89,90,1,"CDM,RB","64c0c2b0f547dd9dd135f686",6,Right
+212831,Alisson,Alisson Ramses Becker,29,191,91,https://cdn.sofifa.net/players/212/831/23_60.png,Brazil,89,90,1,GK,"64c0c2b0f547dd9dd135f686",1,Right
+215914,N. Kanté,N'Golo Kanté,31,168,70,https://cdn.sofifa.net/players/215/914/23_60.png,France,89,89,0,"CDM,CM","64c0c2b0f547dd9dd135f686",7,Right
+239818,Rúben Dias,Rúben Santos Gato Alves Dias,25,187,82,https://cdn.sofifa.net/players/239/818/23_60.png,Portugal,88,91,3,CB,"64c0c2b0f547dd9dd135f686",3,Right
+239085,E. Haaland,Erling Haaland,21,195,94,https://cdn.sofifa.net/players/239/085/23_60.png,Norway,88,94,6,ST,"64c0c2b0f547dd9dd135f686",9,Left
+230621,G. Donnarumma,Gianluigi Donnarumma,23,196,90,https://cdn.sofifa.net/players/230/621/23_60.png,Italy,88,92,4,GK,64c0c2b0f547dd9dd135f685,99,Right
+218667,Bernardo Silva,Bernardo Mota Carvalho e Silva,27,173,64,https://cdn.sofifa.net/players/218/667/23_60.png,Portugal,88,88,0,"CAM,CM","64c0c2b0f547dd9dd135f686",20,Left
+210514,João Cancelo,João Pedro Cavaco Cancelo,28,182,74,https://cdn.sofifa.net/players/210/514/23_60.png,Portugal,88,88,0,"LB,RB","64c0c2b0f547dd9dd135f686",7,Right
+207865,Marquinhos,Marcos Aoás Corrêa,28,183,75,https://cdn.sofifa.net/players/207/865/23_60.png,Brazil,88,90,2,CB,64c0c2b0f547dd9dd135f685,5,Right
+193041,K. Navas,Keylor Navas,35,185,80,https://cdn.sofifa.net/players/193/041/23_60.png,Costa Rica,88,88,0,GK,64c0c2b0f547dd9dd135f685,1,Right
+192448,M. ter Stegen,Marc-André ter Stegen,30,187,85,https://cdn.sofifa.net/players/192/448/23_60.png,Germany,88,89,1,GK,"64c0c2b0f547dd9dd135f686",1,Right
+182521,T. Kroos,Toni Kroos,32,183,76,https://cdn.sofifa.net/players/182/521/23_60.png,Germany,88,88,0,CM,64c0c2b0f547dd9dd135f685,8,Right
+177003,L. Modrić,Luka Modrić,36,172,66,https://cdn.sofifa.net/players/177/003/23_60.png,Croatia,88,88,0,CM,64c0c2b0f547dd9dd135f685,10,Right
+205452,A. Rüdiger,Antonio Rüdiger,29,190,85,https://cdn.sofifa.net/players/205/452/23_60.png,Germany,87,88,1,CB,64c0c2b0f547dd9dd135f685,22,Right
+231866,Rodri,Rodrigo Hernández Cascante,26,191,82,https://cdn.sofifa.net/players/231/866/23_60.png,Spain,87,89,2,CDM,"64c0c2b0f547dd9dd135f687",16,Right
+209499,Fabinho,Fábio Henrique Tavares,28,188,78,https://cdn.sofifa.net/players/209/499/23_60.png,Brazil,87,88,1,"CDM,CB","64c0c2b0f547dd9dd135f687",3,Right
+167948,H. Lloris,Hugo Lloris,35,188,82,https://cdn.sofifa.net/players/167/948/23_60.png,France,87,87,0,GK,"64c0c2b0f547dd9dd135f687",1,Left
+189596,T. Müller,Thomas Müller,32,185,76,https://cdn.sofifa.net/players/189/596/23_60.png,Germany,87,87,0,"CAM,CF","64c0c2b0f547dd9dd135f687",25,Right
+193080,De Gea,David De Gea Quintana,31,192,76,https://cdn.sofifa.net/players/193/080/23_60.png,Spain,87,87,0,GK,"64c0c2b0f547dd9dd135f687",1,Right
+199556,M. Verratti,Marco Verratti,29,165,60,https://cdn.sofifa.net/players/199/556/23_60.png,Italy,87,87,0,"CM,CAM",64c0c2b0f547dd9dd135f685,6,Right
+215698,M. Maignan,Mike Maignan,26,191,89,https://cdn.sofifa.net/players/215/698/23_60.png,France,87,90,3,GK,"64c0c2b0f547dd9dd135f687",16,Right
+231281,T. Alexander-Arnold,Trent Alexander-Arnold,23,180,69,https://cdn.sofifa.net/players/231/281/23_60.png,England,87,90,3,RB,"64c0c2b0f547dd9dd135f687",66,Right
+216267,A. Robertson,Andrew Robertson,28,178,64,https://cdn.sofifa.net/players/216/267/23_60.png,Scotland,87,87,0,LB,"64c0c2b0f547dd9dd135f687",26,Left
+201024,K. Koulibaly,Kalidou Koulibaly,31,187,89,https://cdn.sofifa.net/players/201/024/23_60.png,Senegal,87,87,0,CB,"64c0c2b0f547dd9dd135f687",26,Right
+209658,L. Goretzka,Leon Goretzka,27,189,82,https://cdn.sofifa.net/players/209/658/23_60.png,Germany,87,88,1,"CM,CDM",64c0c2b0f547dd9dd135f687,8,Right
+228702,F. de Jong,Frenkie de Jong,25,180,74,https://cdn.sofifa.net/players/228/702/23_60.png,Netherlands,87,92,5,CM,"64c0c2b0f547dd9dd135f688",21,Right
+189509,Thiago,Thiago Alcântara,31,174,70,https://cdn.sofifa.net/players/189/509/23_60.png,Spain,86,86,0,CM,"64c0c2b0f547dd9dd135f688",6,Right
+192387,C. Immobile,Ciro Immobile,32,185,85,https://cdn.sofifa.net/players/192/387/23_60.png,Italy,86,86,0,ST,"64c0c2b0f547dd9dd135f688",17,Right
+192505,R. Lukaku,Romelu Lukaku,29,191,94,https://cdn.sofifa.net/players/192/505/23_60.png,Belgium,86,86,0,ST,"64c0c2b0f547dd9dd135f688",90,Left
+197445,D. Alaba,David Alaba,30,180,78,https://cdn.sofifa.net/players/197/445/23_60.png,Austria,86,86,0,CB,64c0c2b0f547dd9dd135f685,4,Left
+202652,R. Sterling,Raheem Sterling,27,170,69,https://cdn.sofifa.net/players/202/652/23_60.png,England,86,86,0,"LW,RW","64c0c2b0f547dd9dd135f688",17,Right
+204485,R. Mahrez,Riyad Mahrez,31,179,67,https://cdn.sofifa.net/players/204/485/23_60.png,Algeria,86,86,0,"RW,RM","64c0c2b0f547dd9dd135f688",26,Left
+211110,P. Dybala,Paulo Dybala,28,177,75,https://cdn.sofifa.net/players/211/110/23_60.png,Argentina,86,86,0,"CF,CAM","64c0c2b0f547dd9dd135f688",21,Left
+164240,Thiago Silva,Thiago Emiliano da Silva,37,183,79,https://cdn.sofifa.net/players/164/240/23_60.png,Brazil,86,86,0,CB,"64c0c2b0f547dd9dd135f688",6,Right
+186153,W. Szczęsny,Wojciech Szczęsny,32,195,90,https://cdn.sofifa.net/players/186/153/23_60.png,Poland,86,86,0,GK,"64c0c2b0f547dd9dd135f688",1,Right
+188943,K. Trapp,Kevin Trapp,31,189,84,https://cdn.sofifa.net/players/188/943/23_60.png,Germany,86,86,0,GK,"64c0c2b0f547dd9dd135f688",1,Right
+212198,Bruno Fernandes,Bruno Miguel Borges Fernandes,27,179,69,https://cdn.sofifa.net/players/212/198/23_60.png,Portugal,86,86,0,"CAM,CM","64c0c2b0f547dd9dd135f688",8,Right
+189513,Parejo,Daniel Parejo Muñoz,33,182,74,https://cdn.sofifa.net/players/189/513/23_60.png,Spain,86,86,0,CM,64c0c2b0f547dd9dd135f68a,10,Right
+212218,A. Laporte,Aymeric Laporte,28,191,85,https://cdn.sofifa.net/players/212/218/23_60.png,Spain,86,87,1,CB,"64c0c2b0f547dd9dd135f688",14,Left
+213345,K. Coman,Kingsley Coman,26,179,75,https://cdn.sofifa.net/players/213/345/23_60.png,France,86,87,1,LM,64c0c2b0f547dd9dd135f687,11,Right
+216352,M. Brozović,Marcelo Brozović,29,181,68,https://cdn.sofifa.net/players/216/352/23_60.png,Croatia,86,86,0,"CDM,CM","64c0c2b0f547dd9dd135f688",77,Right
+224232,N. Barella,Nicolò Barella,25,172,68,https://cdn.sofifa.net/players/224/232/23_60.png,Italy,86,89,3,CM,"64c0c2b0f547dd9dd135f688",23,Right
+231478,L. Martínez,Lautaro Martínez,24,174,72,https://cdn.sofifa.net/players/231/478/23_60.png,Argentina,86,90,4,ST,"64c0c2b0f547dd9dd135f688",10,Right
+232363,M. Škriniar,Milan Škriniar,27,188,80,https://cdn.sofifa.net/players/232/363/23_60.png,Slovakia,86,87,1,CB,"64c0c2b0f547dd9dd135f688",37,Right
+232411,C. Nkunku,Christopher Nkunku,24,175,73,https://cdn.sofifa.net/players/232/411/23_60.png,France,86,89,3,"CF,CAM,ST","64c0c2b0f547dd9dd135f688",18,Right
+234642,É. Mendy,Édouard Mendy,30,197,86,https://cdn.sofifa.net/players/234/642/23_60.png,Senegal,86,87,1,GK,"64c0c2b0f547dd9dd135f688",16,Right
+238794,Vinícius Jr.,Vinícius José de Oliveira Júnior,21,176,73,https://cdn.sofifa.net/players/238/794/23_60.png,Brazil,86,92,6,LW,64c0c2b0f547dd9dd135f685,20,Right
+223848,S. Milinković-Savić,Sergej Milinković-Savić,27,191,76,https://cdn.sofifa.net/players/223/848/23_60.png,Serbia,86,87,1,CM,"64c0c2b0f547dd9dd135f689",21,Right
+212190,N. Süle,Niklas Süle,26,195,99,https://cdn.sofifa.net/players/212/190/23_60.png,Germany,85,87,2,"CB,RB","64c0c2b0f547dd9dd135f689",25,Right
+216594,N. Fekir,Nabil Fekir,28,173,75,https://cdn.sofifa.net/players/216/594/23_60.png,France,85,85,0,CAM,"64c0c2b0f547dd9dd135f689",8,Left
+206113,S. Gnabry,Serge Gnabry,26,176,77,https://cdn.sofifa.net/players/206/113/23_60.png,Germany,85,85,0,RM,64c0c2b0f547dd9dd135f687,7,Right
+186942,İ. Gündoğan,İlkay Gündoğan,31,180,80,https://cdn.sofifa.net/players/186/942/23_60.png,Germany,85,85,0,"CM,CDM","64c0c2b0f547dd9dd135f689",8,Right
+188377,K. Walker,Kyle Walker,32,183,83,https://cdn.sofifa.net/players/188/377/23_60.png,England,85,85,0,RB,"64c0c2b0f547dd9dd135f689",2,Right
+188567,P. Aubameyang,Pierre-Emerick Aubameyang,33,187,80,https://cdn.sofifa.net/players/188/567/23_60.png,Gabon,85,85,0,ST,"64c0c2b0f547dd9dd135f689",9,Right
+189332,Jordi Alba,Jordi Alba Ramos,33,170,68,https://cdn.sofifa.net/players/189/332/23_60.png,Spain,85,85,0,LB,"64c0c2b0f547dd9dd135f689",18,Left
+189511,Sergio Busquets,Sergio Busquets Burgos,33,189,76,https://cdn.sofifa.net/players/189/511/23_60.png,Spain,85,85,0,CDM,"64c0c2b0f547dd9dd135f689",5,Right
+192629,Iago Aspas,Iago Aspas Juncal,34,176,67,https://cdn.sofifa.net/players/192/629/23_60.png,Spain,85,85,0,ST,64c0c2b0f547dd9dd135f689,10,Left
+195864,P. Pogba,Paul Pogba,29,191,84,https://cdn.sofifa.net/players/195/864/23_60.png,France,85,85,0,"CM,CDM,LM","64c0c2b0f547dd9dd135f689",10,Right
+202556,M. Depay,Memphis Depay,28,176,78,https://cdn.sofifa.net/players/202/556/23_60.png,Netherlands,85,85,0,"CF,ST,LW",64c0c2b0f547dd9dd135f689,14,Right
+205498,Jorginho,Luiz Frello Filho Jorge,30,180,68,https://cdn.sofifa.net/players/205/498/23_60.png,Italy,85,85,0,CM,"64c0c2b0f547dd9dd135f689",5,Right
+224334,M. Acuña,Marcos Acuña,30,172,69,https://cdn.sofifa.net/players/224/334/23_60.png,Argentina,85,85,0,LB,"64c0c2b0f547dd9dd135f689",19,Left
+208093,Gerard Moreno,Gerard Moreno Balagueró,30,180,77,https://cdn.sofifa.net/players/208/093/23_60.png,Spain,85,85,0,ST,"64c0c2b0f547dd9dd135f689",7,Left
+208418,Y. Carrasco,Yannick Carrasco,28,181,73,https://cdn.sofifa.net/players/208/418/23_60.png,Belgium,85,85,0,LM,64c0c2b0f547dd9dd135f690,21,Right
+208574,F. Kostić,Filip Kostić,29,184,84,https://cdn.sofifa.net/players/208/574/23_60.png,Serbia,85,85,0,"LM,LWB",64c0c2b0f547dd9dd135f690,17,Left
+208830,J. Vardy,Jamie Vardy,35,179,74,https://cdn.sofifa.net/players/208/830/23_60.png,England,85,85,0,ST,64c0c2b0f547dd9dd135f690,9,Right
+251854,Pedri,Pedro González López,19,174,61,https://cdn.sofifa.net/players/251/854/23_60.png,Spain,85,93,8,CM,64c0c2b0f547dd9dd135f690,8,Right
+237692,P. Foden,Phil Foden,22,171,69,https://cdn.sofifa.net/players/237/692/23_60.png,England,85,92,7,"LW,CF,CAM",64c0c2b0f547dd9dd135f690,47,Left
+235243,M. de Ligt,Matthijs de Ligt,22,189,89,https://cdn.sofifa.net/players/235/243/23_60.png,Netherlands,85,89,4,CB,64c0c2b0f547dd9dd135f687,4,Right
+234236,P. Schick,Patrik Schick,26,191,86,https://cdn.sofifa.net/players/234/236/23_60.png,Czech Republic,85,87,2,ST,64c0c2b0f547dd9dd135f690,14,Left
+232656,T. Hernández,Theo Hernández,24,184,81,https://cdn.sofifa.net/players/232/656/23_60.png,France,85,90,5,LB,64c0c2b0f547dd9dd135f690,19,Left
+224458,Diogo Jota,Diogo José Teixeira da Silva,25,178,73,https://cdn.sofifa.net/players/224/458/23_60.png,Portugal,85,89,4,"CF,LW",64c0c2b0f547dd9dd135f690,20,Right
+185122,P. Gulácsi,Péter Gulácsi,32,191,86,https://cdn.sofifa.net/players/185/122/23_60.png,Hungary,85,85,0,GK,64c0c2b0f547dd9dd135f690,1,Right
+177683,Y. Sommer,Yann Sommer,33,183,79,https://cdn.sofifa.net/players/177/683/23_60.png,Switzerland,85,85,0,GK,64c0c2b0f547dd9dd135f690,1,Right
+188350,M. Reus,Marco Reus,33,180,71,https://cdn.sofifa.net/players/188/350/23_60.png,Germany,85,85,0,"CAM,CF,RM",64c0c2b0f547dd9dd135f68a,11,Right
+220814,L. Hernández,Lucas Hernández,26,184,79,https://cdn.sofifa.net/players/220/814/23_60.png,France,84,86,2,"CB,LB",64c0c2b0f547dd9dd135f687,21,Left
+155862,Sergio Ramos,Sergio Ramos García,36,184,82,https://cdn.sofifa.net/players/155/862/23_60.png,Spain,84,84,0,CB,64c0c2b0f547dd9dd135f685,4,Right
+143076,A. Gómez,Alejandro Gómez,34,167,68,https://cdn.sofifa.net/players/143/076/23_60.png,Argentina,84,84,0,"CAM,LW",64c0c2b0f547dd9dd135f691,24,Right
+162835,S. Handanovič,Samir Handanovič,37,193,92,https://cdn.sofifa.net/players/162/835/23_60.png,Slovenia,84,84,0,GK,64c0c2b0f547dd9dd135f691,1,Right
+175943,D. Mertens,Dries Mertens,35,169,61,https://cdn.sofifa.net/players/175/943/23_60.png,Belgium,84,84,0,"CF,ST,CAM",64c0c2b0f547dd9dd135f691,10,Right
+176580,L. Suárez,Luis Suárez,35,182,86,https://cdn.sofifa.net/players/176/580/23_60.png,Uruguay,84,84,0,ST,64c0c2b0f547dd9dd135f691,9,Right
+199434,D. Tadić,Dušan Tadić,33,181,76,https://cdn.sofifa.net/players/199/434/23_60.png,Serbia,84,84,0,"LW,CF,CAM",64c0c2b0f547dd9dd135f691,10,Left
+210935,D. Berardi,Domenico Berardi,27,183,72,https://cdn.sofifa.net/players/210/935/23_60.png,Italy,84,84,0,"RM,RW","64c0c2b0f547dd9dd135f68e",10,Left
+209989,T. Partey,Thomas Partey,29,185,77,https://cdn.sofifa.net/players/209/989/23_60.png,Ghana,84,84,0,"CDM,CM","64c0c2b0f547dd9dd135f68e",5,Right
+209981,Y. Bounou,Yassine Bounou,31,192,78,https://cdn.sofifa.net/players/209/981/23_60.png,Morocco,84,84,0,GK,"64c0c2b0f547dd9dd135f68e",13,Left
+208128,H. Çalhanoğlu,Hakan Çalhanoğlu,28,178,76,https://cdn.sofifa.net/players/208/128/23_60.png,Turkey,84,84,0,CM,"64c0c2b0f547dd9dd135f68e",20,Right
+207410,M. Kovačić,Mateo Kovačić,28,176,80,https://cdn.sofifa.net/players/207/410/23_60.png,Croatia,84,84,0,CM,"64c0c2b0f547dd9dd135f68e",8,Right
+206517,J. Grealish,Jack Grealish,26,180,81,https://cdn.sofifa.net/players/206/517/23_60.png,England,84,84,0,"LW,LM,CAM","64c0c2b0f547dd9dd135f68e",10,Right
+204963,Carvajal,Daniel Carvajal Ramos,30,173,73,https://cdn.sofifa.net/players/204/963/23_60.png,Spain,84,84,0,RB,64c0c2b0f547dd9dd135f685,2,Right
+204639,S. Savić,Stefan Savić,31,187,80,https://cdn.sofifa.net/players/204/639/23_60.png,Montenegro,84,84,0,CB,"64c0c2b0f547dd9dd135f68e",15,Right
+202811,E. Martínez,Emiliano Martínez,29,195,88,https://cdn.sofifa.net/players/202/811/23_60.png,Argentina,84,84,0,GK,"64c0c2b0f547dd9dd135f68e",1,Right
+201535,R. Varane,Raphaël Varane,29,191,81,https://cdn.sofifa.net/players/201/535/23_60.png,France,84,85,1,CB,"64c0c2b0f547dd9dd135f68e",19,Right
+199451,W. Ben Yedder,Wissam Ben Yedder,31,170,68,https://cdn.sofifa.net/players/199/451/23_60.png,France,84,84,0,ST,"64c0c2b0f547dd9dd135f68e",10,Right
+198219,L. Insigne,Lorenzo Insigne,31,163,59,https://cdn.sofifa.net/players/198/219/23_60.png,Italy,84,84,0,"LW,CF,LM","64c0c2b0f547dd9dd135f68e",24,Right
+178603,M. Hummels,Mats Hummels,33,191,94,https://cdn.sofifa.net/players/178/603/23_60.png,Germany,84,84,0,"CB,RB,RW",64c0c2b0f547dd9dd135f68a,15,Right
+198176,S. de Vrij,Stefan de Vrij,30,189,78,https://cdn.sofifa.net/players/198/176/23_60.png,Netherlands,84,84,0,CB,"64c0c2b0f547dd9dd135f68e",6,Right
+197061,J. Matip,Joel Matip,30,194,90,https://cdn.sofifa.net/players/197/061/23_60.png,Cameroon,84,84,0,CB,"64c0c2b0f547dd9dd135f68e",32,Right
+192984,K. Casteels,Koen Casteels,30,197,86,https://cdn.sofifa.net/players/192/984/23_60.png,Belgium,84,85,1,GK,"64c0c2b0f547dd9dd135f68e",1,Left
+190286,Canales,Sergio Canales Madrazo,31,176,65,https://cdn.sofifa.net/players/190/286/23_60.png,Spain,84,84,0,"RM,CAM,CDM","64c0c2b0f547dd9dd135f68e",10,Left
+189575,Muniain,Iker Muniain Goñi,29,170,66,https://cdn.sofifa.net/players/189/575/23_60.png,Spain,84,84,0,"LM,CAM","64c0c2b0f547dd9dd135f68e",10,Right
+186345,K. Trippier,Kieran Trippier,31,173,71,https://cdn.sofifa.net/players/186/345/23_60.png,England,84,84,0,"RB,RM","64c0c2b0f547dd9dd135f68e",2,Right
+184344,L. Bonucci,Leonardo Bonucci,35,190,85,https://cdn.sofifa.net/players/184/344/23_60.png,Italy,84,84,0,CB,"64c0c2b0f547dd9dd135f68e",19,Right
+183898,Á. Di María,Ángel Di María,34,180,69,https://cdn.sofifa.net/players/183/898/23_60.png,Argentina,84,84,0,RW,"64c0c2b0f547dd9dd135f68e",22,Left
+183277,E. Hazard,Eden Hazard,31,175,74,https://cdn.sofifa.net/players/183/277/23_60.png,Belgium,84,84,0,LW,64c0c2b0f547dd9dd135f685,7,Right
+181458,I. Perišić,Ivan Perišić,33,186,80,https://cdn.sofifa.net/players/181/458/23_60.png,Croatia,84,84,0,"LM,LWB","64c0c2b0f547dd9dd135f68d",14,Right
+180930,E. Džeko,Edin Džeko,36,193,80,https://cdn.sofifa.net/players/180/930/23_60.png,Bosnia and Herzegovina,84,84,0,ST,"64c0c2b0f547dd9dd135f68d",9,Right
+138956,G. Chiellini,Giorgio Chiellini,37,187,85,https://cdn.sofifa.net/players/138/956/23_60.png,Italy,84,84,0,CB,"64c0c2b0f547dd9dd135f68d",14,Left
+212616,R. De Paul,Rodrigo Javier De Paul,28,180,70,https://cdn.sofifa.net/players/212/616/23_60.png,Argentina,84,84,0,CM,"64c0c2b0f547dd9dd135f68d",5,Right
+252371,J. Bellingham,Jude Bellingham,19,186,75,https://cdn.sofifa.net/players/252/371/23_60.png,England,84,91,7,"CM,LM",64c0c2b0f547dd9dd135f68a,22,Right
+235805,F. Chiesa,Federico Chiesa,24,175,70,https://cdn.sofifa.net/players/235/805/23_60.png,Italy,84,90,6,LW,"64c0c2b0f547dd9dd135f68d",7,Right
+241852,M. Diaby,Moussa Diaby,22,171,67,https://cdn.sofifa.net/players/241/852/23_60.png,France,84,88,4,"RM,LM,LW","64c0c2b0f547dd9dd135f68d",19,Left
+269761,J. Tartt,Jamie Tartt,24,178,84,https://cdn.sofifa.net/players/269/761/23_60.png,England,84,91,7,ST,64c0c2b0f547dd9dd135f687,9,Right
+241721,Rafael Leão,Rafael da Conceição Leão,23,188,81,https://cdn.sofifa.net/players/241/721/23_60.png,Portugal,84,90,6,"LW,LM","64c0c2b0f547dd9dd135f68d",17,Right
+241486,J. Koundé,Jules Koundé,23,181,75,https://cdn.sofifa.net/players/241/486/23_60.png,France,84,89,5,"CB,RB","64c0c2b0f547dd9dd135f68d",23,Right
+216393,Y. Tielemans,Youri Tielemans,25,176,72,https://cdn.sofifa.net/players/216/393/23_60.png,Belgium,84,86,2,"CM,CDM","64c0c2b0f547dd9dd135f68d",8,Right
+241096,S. Tonali,Sandro Tonali,22,181,79,https://cdn.sofifa.net/players/241/096/23_60.png,Italy,84,90,6,"CDM,CM","64c0c2b0f547dd9dd135f68d",8,Right
+241084,L. Díaz,Luis Díaz,25,180,73,https://cdn.sofifa.net/players/241/084/23_60.png,Colombia,84,87,3,"LW,LM","64c0c2b0f547dd9dd135f68d",23,Right
+240130,Éder Militão,Éder Gabriel Militão,24,186,78,https://cdn.sofifa.net/players/240/130/23_60.png,Brazil,84,89,5,CB,64c0c2b0f547dd9dd135f685,3,Right
+239053,F. Valverde,Federico Valverde,23,182,78,https://cdn.sofifa.net/players/239/053/23_60.png,Uruguay,84,90,6,"CM,RW",64c0c2b0f547dd9dd135f685,15,Right
+222492,L. Sané,Leroy Sané,26,183,80,https://cdn.sofifa.net/players/222/492/23_60.png,Germany,84,85,1,LM,64c0c2b0f547dd9dd135f687,10,Left
+238074,R. James,Reece James,22,178,87,https://cdn.sofifa.net/players/238/074/23_60.png,England,84,88,4,"RWB,RB","64c0c2b0f547dd9dd135f68d",24,Right
+237383,A. Bastoni,Alessandro Bastoni,23,190,75,https://cdn.sofifa.net/players/237/383/23_60.png,Italy,84,90,6,CB,"64c0c2b0f547dd9dd135f68d",95,Left
+235790,K. Havertz,Kai Havertz,23,189,82,https://cdn.sofifa.net/players/235/790/23_60.png,Germany,84,91,7,"CAM,CF,ST","64c0c2b0f547dd9dd135f68d",29,Left
+242444,João Félix,João Félix Sequeira,22,181,72,https://cdn.sofifa.net/players/242/444/23_60.png,Portugal,84,90,6,"CF,ST","64c0c2b0f547dd9dd135f68d",7,Right
+235212,A. Hakimi,Achraf Hakimi,23,181,73,https://cdn.sofifa.net/players/235/212/23_60.png,Morocco,84,87,3,"RB,RWB",64c0c2b0f547dd9dd135f685,2,Right
+234396,A. Davies,Alphonso Davies,21,185,77,https://cdn.sofifa.net/players/234/396/23_60.png,Canada,84,89,5,"LB,LM",64c0c2b0f547dd9dd135f687,19,Left
+234378,D. Rice,Declan Rice,23,185,80,https://cdn.sofifa.net/players/234/378/23_60.png,England,84,87,3,CDM,"64c0c2b0f547dd9dd135f68d",41,Right
+233064,M. Mount,Mason Mount,23,180,74,https://cdn.sofifa.net/players/233/064/23_60.png,England,84,87,3,"CAM,RW","64c0c2b0f547dd9dd135f68d",19,Right
+233049,J. Sancho,Jadon Sancho,22,180,76,https://cdn.sofifa.net/players/233/049/23_60.png,England,84,88,4,"LW,RW,LM","64c0c2b0f547dd9dd135f68d",25,Right
+232756,F. Tomori,Fikayo Tomori,24,185,79,https://cdn.sofifa.net/players/232/756/23_60.png,England,84,90,6,CB,"64c0c2b0f547dd9dd135f68d",23,Right
+230938,F. Kessié,Franck Yannick Kessié,25,183,88,https://cdn.sofifa.net/players/230/938/23_60.png,Côte d'Ivoire,84,86,2,"CDM,CM","64c0c2b0f547dd9dd135f68d",19,Right
+230142,Oyarzabal,Mikel Oyarzabal Ugarte,25,181,79,https://cdn.sofifa.net/players/230/142/23_60.png,Spain,84,86,2,"LW,RW","64c0c2b0f547dd9dd135f68d",10,Left
+228251,L. Pellegrini,Lorenzo Pellegrini,26,186,77,https://cdn.sofifa.net/players/228/251/23_60.png,Italy,84,87,3,"CAM,CM","64c0c2b0f547dd9dd135f68d",7,Right
+226790,W. Ndidi,Wilfred Ndidi,25,183,74,https://cdn.sofifa.net/players/226/790/23_60.png,Nigeria,84,86,2,"CDM,CM","64c0c2b0f547dd9dd135f68d",25,Right
+226161,Marcos Llorente,Marcos Llorente Moreno,27,184,74,https://cdn.sofifa.net/players/226/161/23_60.png,Spain,84,85,1,"CM,RM,RB","64c0c2b0f547dd9dd135f68d",14,Right
+222665,M. Ødegaard,Martin Ødegaard,23,178,68,https://cdn.sofifa.net/players/222/665/23_60.png,Norway,84,89,5,"CAM,CM","64c0c2b0f547dd9dd135f68c",8,Left
+246430,D. Vlahović,Dušan Vlahović,22,190,75,https://cdn.sofifa.net/players/246/430/23_60.png,Serbia,84,91,7,ST,"64c0c2b0f547dd9dd135f68c",9,Left
+219693,Diego Carlos,Diego Carlos Santos Silva,29,186,79,https://cdn.sofifa.net/players/219/693/23_60.png,Brazil,83,83,0,CB,"64c0c2b0f547dd9dd135f68c",3,Right
+220651,Angeliño,José Ángel Esmoris Tasende,25,171,69,https://cdn.sofifa.net/players/220/651/23_60.png,Spain,83,85,2,"LWB,LM","64c0c2b0f547dd9dd135f68c",11,Left
+231443,O. Dembélé,Ousmane Dembélé,25,178,67,https://cdn.sofifa.net/players/231/443/23_60.png,France,83,86,3,"RW,LW","64c0c2b0f547dd9dd135f68c",7,Left
+220834,Marco Asensio,Marco Asensio Willemsen,26,182,76,https://cdn.sofifa.net/players/220/834/23_60.png,Spain,83,84,1,RW,64c0c2b0f547dd9dd135f685,11,Left
+224293,Rúben Neves,Rúben Diogo da Silva Neves,25,180,80,https://cdn.sofifa.net/players/224/293/23_60.png,Portugal,83,86,3,"CM,CDM","64c0c2b0f547dd9dd135f68c",8,Right
+225193,Merino,Mikel Merino Zazón,26,189,83,https://cdn.sofifa.net/players/225/193/23_60.png,Spain,83,86,3,CM,"64c0c2b0f547dd9dd135f68c",8,Left
+225375,K. Laimer,Konrad Laimer,25,180,72,https://cdn.sofifa.net/players/225/375/23_60.png,Austria,83,84,1,"CDM,CM","64c0c2b0f547dd9dd135f68c",27,Right
+225850,P. Kimpembe,Presnel Kimpembe,26,189,80,https://cdn.sofifa.net/players/225/850/23_60.png,France,83,86,3,CB,64c0c2b0f547dd9dd135f685,3,Left
+226271,Fabián,Fabián Ruiz Peña,26,189,70,https://cdn.sofifa.net/players/226/271/23_60.png,Spain,83,85,2,"CM,CDM",64c0c2b0f547dd9dd135f685,8,Left
+228618,F. Mendy,Ferland Mendy,27,180,73,https://cdn.sofifa.net/players/228/618/23_60.png,France,83,84,1,LB,64c0c2b0f547dd9dd135f685,23,Left
+230481,Ronaldo Cabrais,Ronaldo Jailson Cabrais Petri,30,177,75,https://cdn.sofifa.net/players/230/481/23_60.png,Brazil,83,83,0,"CAM,RM","64c0c2b0f547dd9dd135f68c",10,Right
+230666,Gabriel Jesus,Gabriel Fernando de Jesus,25,175,73,https://cdn.sofifa.net/players/230/666/23_60.png,Brazil,83,86,3,"ST,RW","64c0c2b0f547dd9dd135f68c",9,Right
+230869,Unai Simón,Unai Simón Mendibil,25,190,89,https://cdn.sofifa.net/players/230/869/23_60.png,Spain,83,86,3,GK,"64c0c2b0f547dd9dd135f68c",1,Right
+232293,V. Osimhen,Victor Osimhen,23,185,78,https://cdn.sofifa.net/players/232/293/23_60.png,Nigeria,83,89,6,ST,"64c0c2b0f547dd9dd135f68c",9,Right
+213648,P. Højbjerg,Pierre-Emile Højbjerg,26,187,84,https://cdn.sofifa.net/players/213/648/23_60.png,Denmark,83,85,2,"CDM,CM","64c0c2b0f547dd9dd135f68c",5,Right
+239580,Bremer,Gleison Bremer Silva Nascimento,25,188,82,https://cdn.sofifa.net/players/239/580/23_60.png,Brazil,83,87,4,CB,"64c0c2b0f547dd9dd135f68b",3,Right
+193082,J. Cuadrado,Juan Cuadrado,34,179,72,https://cdn.sofifa.net/players/193/082/23_60.png,Colombia,83,83,0,"RB,RM","64c0c2b0f547dd9dd135f68b",11,Right
+210406,P. Zieliński,Piotr Zieliński,28,180,75,https://cdn.sofifa.net/players/210/406/23_60.png,Poland,83,83,0,"CAM,CM","64c0c2b0f547dd9dd135f68b",20,Right
+146536,Jesús Navas,Jesús Navas González,36,172,60,https://cdn.sofifa.net/players/146/536/23_60.png,Spain,83,83,0,"RB,RM","64c0c2b0f547dd9dd135f68b",16,Right
+152729,Piqué,Gerard Piqué Bernabeu,35,194,85,https://cdn.sofifa.net/players/152/729/23_60.png,Spain,83,83,0,CB,"64c0c2b0f547dd9dd135f68b",3,Right
+163587,K. Schmeichel,Kasper Schmeichel,35,189,89,https://cdn.sofifa.net/players/163/587/23_60.png,Denmark,83,83,0,GK,"64c0c2b0f547dd9dd135f68b",1,Right
+183711,J. Henderson,Jordan Henderson,32,182,80,https://cdn.sofifa.net/players/183/711/23_60.png,England,83,83,0,"CM,CDM","64c0c2b0f547dd9dd135f68b",14,Right
+184134,Fernando,Fernando Reges Mouta,34,183,76,https://cdn.sofifa.net/players/184/134/23_60.png,Brazil,83,83,0,"CDM,CB","64c0c2b0f547dd9dd135f68b",20,Right
+190941,L. Hrádecký,Lukáš Hrádecký,32,192,85,https://cdn.sofifa.net/players/190/941/23_60.png,Finland,83,83,0,GK,"64c0c2b0f547dd9dd135f68b",1,Right
+168542,David Silva,David Josué Jiménez Silva,36,173,67,https://cdn.sofifa.net/players/168/542/23_60.png,Spain,83,83,0,"CAM,CM","64c0c2b0f547dd9dd135f68b",21,Left
+193698,O. Baumann,Oliver Baumann,32,187,82,https://cdn.sofifa.net/players/193/698/23_60.png,Germany,83,83,0,GK,"64c0c2b0f547dd9dd135f68b",1,Right
+194765,A. Griezmann,Antoine Griezmann,31,176,73,https://cdn.sofifa.net/players/194/765/23_60.png,France,83,83,0,"ST,CF,RW","64c0c2b0f547dd9dd135f68b",8,Left
+198706,Luis Alberto,Luis Alberto Romero Alconchel,29,183,74,https://cdn.sofifa.net/players/198/706/23_60.png,Spain,83,83,0,CM,"64c0c2b0f547dd9dd135f68a",10,Right
+201942,Roberto Firmino,Roberto Firmino Barbosa de Oliveira,30,181,76,https://cdn.sofifa.net/players/201/942/23_60.png,Brazil,83,83,0,CF,"64c0c2b0f547dd9dd135f68a",9,Right
+203574,J. Stones,John Stones,28,188,76,https://cdn.sofifa.net/players/203/574/23_60.png,England,83,84,1,CB,"64c0c2b0f547dd9dd135f68a",5,Right
+208670,H. Ziyech,Hakim Ziyech,29,181,65,https://cdn.sofifa.net/players/208/670/23_60.png,Morocco,83,83,0,"RW,CAM","64c0c2b0f547dd9dd135f68a",22,Left
+193747,Koke,Jorge Resurrección,30,176,75,https://cdn.sofifa.net/players/193/747/23_60.png,Spain,83,83,0,"CM,CDM","64c0c2b0f547dd9dd135f68a",6,Right
+210243,Ricardo Pereira,Ricardo Barbosa Pereira,28,175,70,https://cdn.sofifa.net/players/210/243/23_60.png,Portugal,83,83,0,"RB,RWB","64c0c2b0f547dd9dd135f68a",21,Right
+220697,J. Maddison,James Maddison,25,175,73,https://cdn.sofifa.net/players/220/697/23_60.png,England,82,84,2,"CAM,RM","64c0c2b0f547dd9dd135f68a",10,Right
