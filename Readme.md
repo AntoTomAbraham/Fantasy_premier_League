@@ -1,9 +1,9 @@
 Installation
 
-1.Clone the repository
-2.npm install
-3.Paste your mongoDB connection URL
-4.npm start
+1.Clone the repository<br />
+2.npm install<br />
+3.Paste your mongoDB connection URL<br />
+4.npm start<br />
 
 Routes
 
