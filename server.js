@@ -13,7 +13,7 @@ const fantasyGameRouter = require('./Routes/fantasyGame');
 
 const app = express();
 const port = 3000;
-const connectionString = "mongodb+srv://Anto:anto@clusterpass-anto.artjrev.mongodb.net/?retryWrites=true&w=majority";
+const connectionString = "PASTE YOUR MONGODB CONNECTION URL HERE";
 
 mongoose.connect(connectionString, {
     useNewUrlParser: true,
