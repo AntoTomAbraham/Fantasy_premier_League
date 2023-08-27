@@ -6,7 +6,7 @@ Installation
 4.Run the below 2 Post request for bulk uploading teams and players<br />
   http://localhost:3000/script/uploadTeam <br />
   http://localhost:3000/script/UploadPlayers <br />
-4.npm start<br />
+5.npm start<br />
 
 Functionalities
 
