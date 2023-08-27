@@ -3,6 +3,9 @@ Installation
 1.Clone the repository<br />
 2.npm install<br />
 3.Paste your mongoDB connection URL<br />
+4.Run the below 2 Post request for bulk uploading teams and players<br />
+  http://localhost:3000/script/uploadTeam <br />
+  http://localhost:3000/script/UploadPlayers <br />
 4.npm start<br />
 
 Functionalities
