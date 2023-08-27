@@ -5,6 +5,21 @@ Installation
 3.Paste your mongoDB connection URL<br />
 4.npm start<br />
 
+Functionalities
+
+1.Authentication <br />
+2.Create Fantasy Team<br />
+3.Get my fantasy team<br />
+4.view all fantasy team<br />
+5.View Players<br />
+6.View Players by position<br />
+7.View Player by ID<br />
+8.View Players by rating<br />
+9.Update team<br />
+10.Update team rating<br />
+11.Bulk upload Teams<br />
+12.Bulk upload Players<br />
+
 Routes
 
 1.http://localhost:3000 <br />
